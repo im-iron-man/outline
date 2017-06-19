@@ -32,8 +32,8 @@
 
 ## 数据挖掘
 
-- [爬虫]()
-- [图像处理]()
+- [爬虫](https://github.com/im-iron-man/crawler)
+- [图像处理](https://github.com/im-iron-man/image)
 - [数学之美](https://book.douban.com/subject/10750155/)
 - [计算广告](https://book.douban.com/subject/26596778/)
 - [计算广告学](https://study.163.com/course/courseMain.htm?courseId=321007)
