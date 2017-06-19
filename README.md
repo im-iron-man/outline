@@ -18,6 +18,7 @@
 ## 机器学习
 
 - [机器学习入门](https://github.com/im-iron-man/data-analysis)
+- [机器学习入门作业](https://github.com/im-iron-man/data-analysis-homework)
 - [斯坦福大学公开课：机器学习课程](http://open.163.com/special/opencourse/machinelearning.html)
 - [CS229](http://cs229.stanford.edu/)
 - [集体智慧编程](https://book.douban.com/subject/3288908/)
