@@ -4,7 +4,6 @@
 
 - [廖雪峰python2.7教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/)
 - [python语法特性](https://github.com/im-iron-man/python-gramma)
-- [你有哪些想要分享的PyCharm使用技巧？](https://www.zhihu.com/question/37787004)
 
 ## SQL
 
@@ -15,6 +14,8 @@
 - [codewars](http://www.codewars.com/about)
 
 ## 算法和数据结构
+
+- [算法和数据结构入门](https://github.com/im-iron-man/da)
 
 ## 机器学习
 
