@@ -14,7 +14,7 @@
 
 - [x] [深入浅出数据分析](https://book.douban.com/subject/5257905/)
 - [x] [利用python进行数据分析](https://book.douban.com/subject/25779298/)
-- [ ] [cheat sheet]()
+- [ ] [cheat sheet](https://github.com/im-iron-man/outline/blob/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.md)
 
 ## 机器学习
 
