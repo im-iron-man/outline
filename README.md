@@ -14,6 +14,7 @@
 
 - [x] [深入浅出数据分析](https://book.douban.com/subject/5257905/)
 - [x] [利用python进行数据分析](https://book.douban.com/subject/25779298/)
+- [ ] [cheat sheet]()
 
 ## 机器学习
 
