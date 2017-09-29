@@ -20,3 +20,7 @@
 
 - [x] [机器学习入门](https://github.com/im-iron-man/data-analysis)
 - [ ] [斯坦福大学公开课：机器学习课程](http://open.163.com/special/opencourse/machinelearning.html)
+
+## 自然语言处理
+
+- [ ] [数学之美](https://book.douban.com/subject/10750155/)
