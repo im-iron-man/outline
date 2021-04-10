@@ -1,10 +1,23 @@
 # 课程
 
+## algorithm
+
+### book
+
+- [ ] [我的第一本算法书](https://book.douban.com/subject/30357170/)
+- [ ] [啊哈!算法](https://book.douban.com/subject/25894685/)
+- [ ] [算法图解](https://book.douban.com/subject/26979890/)
+- [ ] [算法](https://book.douban.com/subject/19952400/)
+- [ ] [算法导论](https://book.douban.com/subject/1885170/)
+
+### code
+ 
+- [ ] [codewars](http://www.codewars.com/about)
+
 ## python
 
 - [x] [廖雪峰python2.7教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/)
 - [x] [python语法特性](https://github.com/im-iron-man/python-gramma)
-- [ ] [codewars](http://www.codewars.com/about)
 
 ## SQL
 
