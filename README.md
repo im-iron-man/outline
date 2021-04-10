@@ -11,7 +11,10 @@
 - [ ] [算法导论](https://book.douban.com/subject/1885170/)
 
 ### code
- 
+
+- [ ] [leetcode](https://leetcode.com/)
+- [ ] [lintcode](http://www.lintcode.com/zh-cn/problem/#)
+- [ ] [九章算法](http://www.jiuzhang.com/solution/)
 - [ ] [codewars](http://www.codewars.com/about)
 
 ## python
