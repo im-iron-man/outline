@@ -1,8 +1,14 @@
 # 课程
 
-## algorithm
+## 操作系统
 
-### book
+## 编译原理
+
+## 网络
+
+## 算法
+
+### 书
 
 - [ ] [我的第一本算法书](https://book.douban.com/subject/30357170/)
 - [ ] [啊哈!算法](https://book.douban.com/subject/25894685/)
@@ -10,21 +16,31 @@
 - [ ] [算法](https://book.douban.com/subject/19952400/)
 - [ ] [算法导论](https://book.douban.com/subject/1885170/)
 
-### code
+### 代码
 
 - [ ] [leetcode](https://leetcode.com/)
 - [ ] [lintcode](http://www.lintcode.com/zh-cn/problem/#)
 - [ ] [九章算法](http://www.jiuzhang.com/solution/)
 - [ ] [codewars](http://www.codewars.com/about)
 
+## java
+
+## scala
+
 ## python
 
 - [x] [廖雪峰python2.7教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/)
 - [x] [python语法特性](https://github.com/im-iron-man/python-gramma)
 
+## html/css/javascript
+
 ## SQL
 
 - [x] [SQL必知必会](https://book.douban.com/subject/24250054/)
+
+## 数据库
+
+## 数据处理
 
 ## 数据分析
 
