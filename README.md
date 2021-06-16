@@ -6,7 +6,7 @@
 
 - [ ] [我的第一本算法书](https://book.douban.com/subject/30357170/)
 - [ ] [啊哈!算法](https://book.douban.com/subject/25894685/)
-- [ ] [算法图解](https://book.douban.com/subject/26979890/)
+- [x] [算法图解](https://book.douban.com/subject/26979890/)
 - [ ] [算法](https://book.douban.com/subject/19952400/)
 - [ ] [算法导论](https://book.douban.com/subject/1885170/)
 
