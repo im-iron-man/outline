@@ -52,6 +52,7 @@
 
 - [x] [机器学习入门](https://github.com/im-iron-man/data-analysis)
 - [ ] [斯坦福大学公开课：机器学习课程](http://open.163.com/special/opencourse/machinelearning.html)
+- [ ] [【斯坦福大学】吴恩达 机器学习 CS229 Machine Learning by Andrew Ng](https://www.bilibili.com/video/BV1rs411371e/)
 
 ## 自然语言处理
 
